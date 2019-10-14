@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,SportTV
+http://202.80.222.166/000001/2/ch00000090990000001753?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,JTV
+http://202.80.222.166/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,Bali TV
+http://202.80.222.166/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC Shop Smart
+http://202.80.222.166/000001/2/ch16061710145075159643/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TRANS TV
+http://202.80.222.166/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,GLOBAL TV
+http://202.80.222.166/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,NET TV
+http://202.80.222.166/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,KOMPAS TV
+http://202.80.222.166/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,RTV
+http://202.80.222.166/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,BERITA SATU
+http://202.80.222.166/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,JAKTV
+http://202.80.222.166/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TV9
+http://202.80.222.166/000001/2/ch00000000000000001522/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,DAAI TV
+http://202.80.222.166/000001/2/ch00000090990000001706/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC NEWS
+http://202.80.222.166/000001/2/ch14041511564438196910/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,MNC TV
+http://202.80.222.166/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,iNews
+http://202.80.222.166/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
