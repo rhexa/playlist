@@ -12,11 +12,13 @@ https://live.rctiplus.id/rctiplus/rcti_manifest.m3u8
 #EXTINF:-1,RCTI2
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
 #EXTINF:-1,SCTV
-https://kmklive-lh.akamaihd.net/i/sctv_ta_regular@94479/master.m3u8?hdnts=st=1571053181~exp=1571053301~acl=/i/*~hmac=79c742bf20468d1d2a7b1cd6b0e3ed7b3ed449dd37c6ad0794295ec745e68858
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1,TRANS TV
 http://202.80.222.166/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1,TRANS7
-https://www.dailymotion.com/cdn/live/video/x6p1gw7.m3u8?sec=DUOt6dVPp0Gfbj2FQzNLJ2fJsoMyaN9hSCbh50IiW24BDf3AwZN_W1k15OlHF1uNLFsdtdd6G7hBdhlXdDf9cA&redirect=0
+#EXTINF:-1,TRANS7 1
+https://edgejt8.useetv.com/joss/edgetr7/playlist.m3u8?token=724c5e9f596571316ea4cb123152a8f6&int_start_limit=1571104300&ext_start_limit=1571104300&expires=1571104300&c=telkcom1
+#EXTINF:-1,TRANS7 2
+http://id2.indostreamingtv.com/live/trans7/index.m3u8
 #EXTINF:-1,GLOBAL TV
 http://202.80.222.166/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1,NET TV
