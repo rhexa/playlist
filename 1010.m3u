@@ -7,8 +7,16 @@ http://202.80.222.166/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=0
 http://202.80.222.166/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1,MNC Shop Smart
 http://202.80.222.166/000001/2/ch16061710145075159643/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,RCTI1
+https://live.rctiplus.id/rctiplus/rcti_manifest.m3u8
+#EXTINF:-1,RCTI2
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+#EXTINF:-1,SCTV
+https://kmklive-lh.akamaihd.net/i/sctv_ta_regular@94479/master.m3u8?hdnts=st=1571053181~exp=1571053301~acl=/i/*~hmac=79c742bf20468d1d2a7b1cd6b0e3ed7b3ed449dd37c6ad0794295ec745e68858
 #EXTINF:-1,TRANS TV
 http://202.80.222.166/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,TRANS7
+https://www.dailymotion.com/cdn/live/video/x6p1gw7.m3u8?sec=DUOt6dVPp0Gfbj2FQzNLJ2fJsoMyaN9hSCbh50IiW24BDf3AwZN_W1k15OlHF1uNLFsdtdd6G7hBdhlXdDf9cA&redirect=0
 #EXTINF:-1,GLOBAL TV
 http://202.80.222.166/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1,NET TV
