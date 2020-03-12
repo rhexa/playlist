@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,CNBC
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1,SportTV
 http://202.80.222.166/000001/2/ch00000090990000001753?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1,JTV
